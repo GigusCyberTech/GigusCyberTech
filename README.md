@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Linux Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Linux Backup & Recovery Automation Project](https://github.com/GigusCyberTech/Linux-Backup-Recovery-Automation-Project.git)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
